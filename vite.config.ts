@@ -7,5 +7,5 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [react(), svgr(), tailwindcss()],
   //base: './', // again
-  base: '/nice-gadgets-frontend/',
+  base: '/react_phone-catalog/',
 });
